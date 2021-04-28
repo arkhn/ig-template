@@ -5,9 +5,6 @@
   "description": "HL7 FHIR Template - for use with HL7-published FHIR IGs",
   "author": "http://hl7.org/fhir",
   "canonical": "http://fhir.org/templates/hl7.fhir.template",
-  "base": "hl7.base.template",
-  "dependencies": {
-    "hl7.base.template": "current"
-  },
+  "base": "fhir.base.template",
   "version": "0.3.2"
 }
