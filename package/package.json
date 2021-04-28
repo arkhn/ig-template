@@ -6,5 +6,8 @@
   "author": "http://hl7.org/fhir",
   "canonical": "http://fhir.org/templates/hl7.fhir.template",
   "base": "fhir.base.template",
+  "dependencies": {
+    "fhir.base.template": "current"
+  },
   "version": "0.3.2"
 }
