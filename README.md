@@ -1,5 +1,5 @@
-# ig-template-fhir
+# arkhn-ig-template
 
-package hl7.fhir.template
+package arkhn.fhir.template
 
-Template used for most HL7-defined FHIR implementation guides (based on ig-template-base - package = hl7.base.template).  Adds HL7 logos.
+Template used for arkhn implementationguides

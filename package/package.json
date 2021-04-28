@@ -2,9 +2,9 @@
   "name": "arkhn.fhir.template",
   "type": "fhir.template",
   "license": "CC0-1.0",
-  "description": "HL7 FHIR Template - for use with HL7-published FHIR IGs",
-  "author": "http://hl7.org/fhir",
-  "canonical": "http://fhir.org/templates/hl7.fhir.template",
+  "description": "Arkhn template",
+  "author": "http://arkhn.com",
+  "canonical": "https://github.com/arkhn/ig-template",
   "base": "fhir.base.template",
   "dependencies": {
     "fhir.base.template": "current"
