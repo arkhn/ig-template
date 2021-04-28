@@ -1,0 +1,13 @@
+﻿{
+  "name": "arkhn.fhir.template",
+  "version": "0.1",
+  "type": "fhir.template",
+  "license": "CC0-1.0",
+  "description": "Arkhn template",
+  "author": "http://www.arkhn.com",
+  "canonical": "https://github.com/arkhn/ig-template",
+  "base": "fhir.base.template",
+  "dependencies": {
+    "hl7.base.template": "current"
+  }
+}
