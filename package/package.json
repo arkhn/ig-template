@@ -1,5 +1,5 @@
 ﻿{
-  "name": "hl7.fhir.template",
+  "name": "arkhn.fhir.template",
   "type": "fhir.template",
   "license": "CC0-1.0",
   "description": "HL7 FHIR Template - for use with HL7-published FHIR IGs",
