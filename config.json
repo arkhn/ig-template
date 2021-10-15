@@ -125,8 +125,8 @@
       "format": "{{[type]}}-{{[id]}}.profile.{{[fmt]}}.html",
       "profile-history": "{{[type]}}-{{[id]}}.profile.history.html",
       "template-change-history": "",
-      "_comment": "this template-change-history is here to undo the definition in the Any settings",
-      "json-schema": "{{[type]}}-{{[id]}}-schema.json"
+      "json-schema": true,
+      "_comment": "this template-change-history is here to undo the definition in the Any settings"
     },
     "CodeSystem": {
       "template-base": "template/layouts/layout-codesystem.html",
