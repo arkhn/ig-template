@@ -81,7 +81,6 @@
       "list-types": "CodeSystem|ValueSet|NamingSystem",
       "template-change-history": "template/layouts/layout-changehistory.html",
       "change-history": "{{[type]}}-{{[id]}}.change.history.html",
-      "json-schema": true
     },
     "example": {
       "java": false,
@@ -126,7 +125,8 @@
       "format": "{{[type]}}-{{[id]}}.profile.{{[fmt]}}.html",
       "profile-history": "{{[type]}}-{{[id]}}.profile.history.html",
       "template-change-history": "",
-      "_comment": "this template-change-history is here to undo the definition in the Any settings"
+      "_comment": "this template-change-history is here to undo the definition in the Any settings",
+      "json-schema": "{{[type]}}-{{[id]}}-schema.json"
     },
     "CodeSystem": {
       "template-base": "template/layouts/layout-codesystem.html",
